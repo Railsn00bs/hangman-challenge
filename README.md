@@ -4,10 +4,10 @@ Make Hangman in Ruby.
 Assumed knowledge:
 
   * Basic understanding of the terminal (bash/cmd)
-  * Some knowledge of Ruby and programming concepts (variables, arrays, loops, if/else, etc)
+  * Basic familiarity with Ruby
   * Basic understanding of git (enough to clone this repo)
-
-**If anything in that list above is totally foreign to you, fear not! You can either try your hand at the guessing game challenge (which is still to be written), or pair program with someone who has more experience. If in doubt, ask for someone to help you on Slack.**
+  
+This challenge is aimed at someone who has attended a RailsGirls/RailsBridge event or the Railsn00bs Intro to Rails.
 
 Our end goal in this challenge is to create Hangman on the command line. There are quite a few different parts involved in that.
 
